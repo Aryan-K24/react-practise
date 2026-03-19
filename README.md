@@ -13,7 +13,7 @@
 - React
 
 ## 📸 Screenshots
-(Add images here)
+<img width="1039" height="785" alt="image" src="https://github.com/user-attachments/assets/a76b99b8-0451-4e0e-94a3-aea2e0298619" />
 
 ## 📂 How to Run
 1. Clone repo
